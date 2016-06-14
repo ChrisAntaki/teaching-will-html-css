@@ -1,11 +1,27 @@
-body {
-    background-color: #111;
-    color: #eee;
-    font-family: sans-serif;
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:300px;
+    width:175px;
+    float:left;
+    padding:5px;
+}
+#section {
+    width:700px;
+    float:left;
+    padding:10px;
     text-align: center;
 }
-
-.pages a {
-    display: block;
-    color: #0af;
+#footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px;
 }
